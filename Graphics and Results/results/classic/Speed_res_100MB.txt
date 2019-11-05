@@ -1,0 +1,85 @@
+*** READING FILE ***
+Length of file = 102096027 Bytes
+*** END READING FILE ***
+
+********************************************* Cipher Algorithm: AES *********************************************
+
+	BLOCK size = 128 bits
+	KEY size = 128 bits
+
+	+++++++++++++++++++++ Operative Mode: CBC
+	ENCRYPTING  Average Time ===> 0.818555
+	DECRYPTING  Average Time ===> 1.143312
+	SPEED RATIO for 5 times ==========> 0.715951
+
+	+++++++++++++++++++++ Operative Mode: ECB
+	ENCRYPTING  Average Time ===> 0.838118
+	DECRYPTING  Average Time ===> 1.184652
+	SPEED RATIO for 5 times ==========> 0.707480
+
+	+++++++++++++++++++++ Operative Mode: OFB
+	ENCRYPTING  Average Time ===> 0.881266
+	DECRYPTING  Average Time ===> 0.880040
+	SPEED RATIO for 5 times ==========> 1.001393
+
+********************************************* Cipher Algorithm: DES *********************************************
+
+	BLOCK size = 64 bits
+	KEY size = 64 bits
+
+	+++++++++++++++++++++ Operative Mode: CBC
+	ENCRYPTING  Average Time ===> 1.583930
+	DECRYPTING  Average Time ===> 1.472921
+	SPEED RATIO for 5 times ==========> 1.075367
+
+	+++++++++++++++++++++ Operative Mode: ECB
+	ENCRYPTING Average Time ===> 1.564636
+	DECRYPTING Average Time ===> 1.526383
+	SPEED RATIO for 5 times ==========> 1.025061
+
+	+++++++++++++++++++++ Operative Mode: OFB
+	ENCRYPTING  Average Time ===> 1.632959
+	DECRYPTING  Average Time ===> 1.633225
+	SPEED RATIO for 5 times ==========> 0.999837
+
+********************************************* Cipher Algorithm: BLOWFISH *********************************************
+
+	BLOCK size = 64 bits
+	KEY size = 128 bits
+
+	+++++++++++++++++++++ Operative Mode: CBC
+	ENCRYPTING Average Time ===> 0.869763
+	DECRYPTING Average Time ===> 0.766149
+	SPEED RATIO for 5 times ==========> 1.135241
+
+	+++++++++++++++++++++ Operative Mode: ECB
+	ENCRYPTING Average Time ===> 0.838662
+	DECRYPTING Average Time ===> 0.837227
+	SPEED RATIO for 5 times ==========> 1.001714
+
+	+++++++++++++++++++++ Operative Mode: OFB
+	ENCRYPTING  Average Time ===> 0.889565
+	DECRYPTING  Average Time ===> 0.893406
+	SPEED RATIO for 5 times ==========> 0.995701
+
+
+********************************************* Cipher Algorithm: RC2 *********************************************
+
+	BLOCK size = 64 bits
+	KEY size = 128 bits
+
+	+++++++++++++++++++++ Operative Mode: CBC
+	ENCRYPTING Average Time ===> 2.371235
+	DECRYPTING Average Time ===> 1.560053
+	SPEED RATIO for 5 times ==========> 1.519971
+
+	+++++++++++++++++++++ Operative Mode: ECB
+	ENCRYPTING Average Time ===> 2.377489
+	DECRYPTING Average Time ===> 1.619575
+	SPEED RATIO for 5 times ==========> 1.467971
+
+	+++++++++++++++++++++ Operative Mode: OFB
+	ENCRYPTING  Average Time ===> 2.358288
+	DECRYPTING  Average Time ===> 2.357894
+	SPEED RATIO for 5 times ==========> 1.000167
+

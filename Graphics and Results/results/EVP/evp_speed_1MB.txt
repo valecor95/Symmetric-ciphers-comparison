@@ -1,0 +1,72 @@
+*** READING FILE ***
+Length of file = 1031273 Bytes
+*** END READING FILE ***
+
+********************************************* Cipher Algorithm: AES *********************************************
+
+	+++++++++++++++++++++ Operative Mode: CBC
+	ENCRYPTING  Time ===> 0.002249
+	DECRYPTING  Time ===> 0.000916
+	SPEED RATIO ==========> 2.455240
+
+	+++++++++++++++++++++ Operative Mode: ECB
+	ENCRYPTING  Time ===> 0.000410
+	DECRYPTING  Time ===> 0.000346
+	SPEED RATIO ==========> 1.184971
+
+	+++++++++++++++++++++ Operative Mode: OFB
+	ENCRYPTING  Time ===> 0.001194
+	DECRYPTING  Time ===> 0.001179
+	SPEED RATIO ==========> 1.012723
+
+
+********************************************* Cipher Algorithm: DES *********************************************
+
+	+++++++++++++++++++++ Operative Mode: CBC
+	ENCRYPTING  Average Time ===> 0.016994
+	DECRYPTING  Average Time ===> 0.014996
+	SPEED RATIO for 5 times ==========> 1.133179
+
+	+++++++++++++++++++++ Operative Mode: ECB
+	ENCRYPTING  Average Time ===> 0.015733
+	DECRYPTING  Average Time ===> 0.015400
+	SPEED RATIO for 5 times ==========> 1.021623
+
+	+++++++++++++++++++++ Operative Mode: OFB
+	ENCRYPTING  Average Time ===> 0.016203
+	DECRYPTING  Average Time ===> 0.016180
+	SPEED RATIO for 5 times ==========> 1.001397
+
+********************************************* Cipher Algorithm: BLOWFISH *********************************************
+
+	+++++++++++++++++++++ Operative Mode: CBC
+	ENCRYPTING  Average Time ===> 0.008981
+	DECRYPTING  Average Time ===> 0.007945
+	SPEED RATIO for 5 times ==========> 1.130475
+
+	+++++++++++++++++++++ Operative Mode: ECB
+	ENCRYPTING  Average Time ===> 0.008554
+	DECRYPTING  Average Time ===> 0.008538
+	SPEED RATIO for 5 times ==========> 1.001921
+
+	+++++++++++++++++++++ Operative Mode: OFB
+	ENCRYPTING  Average Time ===> 0.008888
+	DECRYPTING  Average Time ===> 0.008852
+	SPEED RATIO for 5 times ==========> 1.004044
+
+********************************************* Cipher Algorithm: RC2 *********************************************
+
+	+++++++++++++++++++++ Operative Mode: CBC
+	ENCRYPTING  Average Time ===> 0.024130
+	DECRYPTING  Average Time ===> 0.016027
+	SPEED RATIO for 5 times ==========> 1.505597
+
+	+++++++++++++++++++++ Operative Mode: ECB
+	ENCRYPTING  Average Time ===> 0.024140
+	DECRYPTING  Average Time ===> 0.016540
+	SPEED RATIO for 5 times ==========> 1.459522
+
+	+++++++++++++++++++++ Operative Mode: OFB
+	ENCRYPTING  Average Time ===> 0.023745
+	DECRYPTING  Average Time ===> 0.023753
+	SPEED RATIO for 5 times ==========> 0.999663
